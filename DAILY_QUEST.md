@@ -77,8 +77,11 @@
 ---
 
 ## 수행 과정 및 결과
+
 ### [Quest 4] J171
+
 #### 24.07.23
+
 - day06 값을 입력받는 부분 구현에서 입력값에 비동기를 위해서 async, await, promise를 사용했습니다.
 - 처음에는 입력하기 전에 출력이 되거나 여러번 입력을 받는 문제가 있었는데 비동기함수를 통해 해결했습니다.
 
@@ -99,15 +102,35 @@
       askQuestion();
    });
   };
-
   ```
+
+  #### 24.07.25
+
+- day08 함수형 프로그래밍에서 함수의 불변성을 지키기 위해 새로운 객체를 return 하도록 만들었습니다.
+- title값과 일치하는 영화Node만 ticket값을 변경해주고 next와 연결해주었습니다.
+  ```js
+  updateTickets(title, tickets) {
+     return new LinkedList(
+        this.recursiveNode((node) => {
+        if (node.value.title === title) {
+           return new Node({ ...node.value, tickets }, node.next);
+        }
+        return node;
+        })
+     );
+  }
+  ```
+
 ### [Quest 6] J057
+
 #### 24.07.21
+
 - 자바스크립트를 처음 공부할 때 공부 내용을 정리 하는데 있어 어려움을 겪었고 그 때 도움을 받았던 블로그를 slack 웹 풀스택 채널에 공유하였습니다.
 
 ![javascript_학습블로그_공유](https://github.com/user-attachments/assets/1088fb2e-20f0-446f-85c7-80efc7ab4c48)
 
 #### 24.07.23
-- slack에서 영어 철자를 많이 틀렸다는 글을 보고 동일한 문제를 경험하고 vscode의 익스텐션을 이용해 도움을 받은 경험이 있어 내용을 공유하였습니다. 
+
+- slack에서 영어 철자를 많이 틀렸다는 글을 보고 동일한 문제를 경험하고 vscode의 익스텐션을 이용해 도움을 받은 경험이 있어 내용을 공유하였습니다.
 
 ![vscode_익스텐션_공유](https://github.com/user-attachments/assets/a326421c-1385-4b23-945e-a658a1ca10cd)
