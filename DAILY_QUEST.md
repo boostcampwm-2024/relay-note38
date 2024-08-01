@@ -202,3 +202,16 @@
 ### [Quest 5] J099 J254
 
 ### [Quest 6] J162 J279
+
+[J162]
+
+### 2024.07.29
+![image](https://github.com/user-attachments/assets/6e656d15-a35a-40ef-9a7d-596f9ae10a06)
+### 2024.07.30
+![image](https://github.com/user-attachments/assets/280ea320-25d5-4d22-86b8-766065e296e1)
+
+### 2024.07.31
+### 2024.08.01
+실제 깃 동작과 다른 요구사항이 있어서 슬랙에 질문을 올려보았고 정말 다양한 해결 방법들을 알 수 있었습니다.
+![image](https://github.com/user-attachments/assets/b1b1013c-67c5-4695-a12e-1d20a6b0f480)
+
