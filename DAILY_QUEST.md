@@ -205,6 +205,19 @@
   - 평소와 다른 방식으로 휴식을 취하기 위해 여러 아이돌 뮤직비디오를 감상
   - 이 휴식 방법은 일상에서 벗어나 활력을 얻을 수 있는 좋은 기회가 되었다
 
+[S025]
+- 좋아하는 음악 찾아서 듣기!!🎧 (월~금 Daily 진행) 매일매일 하나씩 맘에 드는 곡을 찾아 들으며 휴식을 취했습니다
+  - [[악마는 프라다를 입는다] 이어폰을 꽂는 순간 여긴 뉴욕🌃, Max - Still New York (feat. Joey Bada$$) [가사/해석/자막/lyrics]](https://www.youtube.com/watch?v=7nDBOziW28A)
+  - [창모 (CHANGMO) - 태지 [UNDERGROUND ROCKSTAR]ㅣLyrics/가사](https://youtu.be/YMdiuSkKSbI?si=s_SbwezxSy_VwlFa)
+  - [창모 (CHANGMO) - Supernova (Feat. Dut2) [UNDERGROUND ROCKSTAR]ㅣLyrics/가사](https://youtu.be/2t_inrWZDMY?si=IJ0LrTXNdtfvjS02)
+  - [Lovelyz - Hi~ (안녕) (Color Coded Han|Rom|Eng Lyrics)](https://youtu.be/U-mLqpvduQ4?si=8eBvAUD93XGOL_EG)
+  - [NewJeans (뉴진스) ‘Supernatural’ Official MV (Part.1)](https://youtu.be/ZncbtRo7RXs?si=8DyTWnwnDB_F5ss8)
+
+- 가족 일정으로 인한 부산 방문 (물론 가서... 챌린지 과정을 했습니다..!!!) (월-수)
+  - ![KakaoTalk_Photo_2024-08-02-13-55-02-2](https://github.com/user-attachments/assets/e296aab6-85a0-4c59-ba88-d9ae3072e41b)
+  - ![KakaoTalk_Photo_2024-08-02-13-55-02-1](https://github.com/user-attachments/assets/9d1f50d3-9ac3-4ef0-a497-f844fb9d8d11)
+ 
+- 그 외에는 제가 8.1일 생일(목)이어서 가족분들이랑 밥을 먹었습니다 ㅎㅎ 이것도 특별한 휴식이죠~!
 
 ### [Quest 2] J279 K026
 
