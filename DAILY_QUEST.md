@@ -193,13 +193,44 @@
 
 ### [Quest 1] J254 K026 S025
 
+[J254]
+- 아이돌 뮤비 감상: 틈틈이 음악을 들으며 휴식
+  - [QWER '고민중독' Official MV](https://www.youtube.com/watch?v=ImuWa3SJulY)
+  - [aespa 에스파 'Supernova' MV](https://www.youtube.com/watch?v=phuiiNCxRMg)
+  - [NewJeans (뉴진스) 'How Sweet' Official MV](https://www.youtube.com/watch?v=Q3K0TOvTOno)
+  - [NewJeans (뉴진스) 'Bubble Gum' Official MV](https://www.youtube.com/watch?v=ft70sAYrFyY)
+  - [(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까(Fate)' LIVE CLIP](https://www.youtube.com/watch?v=ATK7gAaZTOM)
+  - 등등
+- 후기
+  - 평소와 다른 방식으로 휴식을 취하기 위해 여러 아이돌 뮤직비디오를 감상
+  - 이 휴식 방법은 일상에서 벗어나 활력을 얻을 수 있는 좋은 기회가 되었다
+
+
 ### [Quest 2] J279 K026
 
 ### [Quest 3] J254
 
+[J254]
+- 24.07.30
+  - 성과 : OOP 설계와 대부분의 기능을 구현
+  - 목표 : 나머지 기능 구현과 정시까지 제출
+- 24.08.30
+  - 성과 : 대부분의 기능을 구현
+  - 목표 : 코드 리팩토링, JSDoc 활동하기, test 코드 작성
+- 후기
+  - 피어세션이 2번 밖에 없었지만, 팀원들에게 목표를 설명했다.
+  - 이 과정을 통해 목표를 명확히 하고, 성과를 객관적으로 평가할 수 있었다
+
 ### [Quest 4] S070
 
 ### [Quest 5] J099 J254
+
+[J254]
+- 산책: 저녁 식사 후 집 주변을 30분 동안 산책
+- 후기
+  - 매일 저녁 꾸준히 산책을 하면서 신체의 긴장도 풀리고, 기분도 상쾌해지는 것을 느꼈다.
+  - 하지만 너무 더웠다. 그래도 좋았다
+
 
 ### [Quest 6] J162 J279
 
