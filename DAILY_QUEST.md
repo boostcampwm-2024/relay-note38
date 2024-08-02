@@ -234,7 +234,18 @@
   - 피어세션이 2번 밖에 없었지만, 팀원들에게 목표를 설명했다.
   - 이 과정을 통해 목표를 명확히 하고, 성과를 객관적으로 평가할 수 있었다
 
-### [Quest 4] S070
+### [Quest 4] S025
+
+1. 비동기 처리 중 OperationQueue를 mutual exclusion함을 보장하게 하기.. -> semaphore를 사용했습니다 ㅎㅎ..
+```
+           concurrentPosQueue.async {
+            self.posSemaphore.wait()
+            self.waitingQueue.append(order)
+            print("Order accepted: \(order). Waiting queue count: \(self.waitingQueue.count)")
+            self.posSemaphore.signal()
+            MainBoard.sharedBoard.receiveEvent(order: order)
+        }
+```
 
 ### [Quest 5] J099 J254
 
